@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voxdown.github.io/voxdown/sitemap.xml
